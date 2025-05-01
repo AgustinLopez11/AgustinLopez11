@@ -1,16 +1,26 @@
-## Hi there 👋
+# Santos Agustín López Miza
+## Sobre mí
+Soy un  creador de software Junior, siempre me a gustado todo lo relacionado con la tecnología 
 
-<!--
-**AgustinLopez11/AgustinLopez11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Título Profesional
+Electrónica y Dispositivos Digitales 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiencia Laboral
+Mango Chango Academy
+
+
+### Desarrollador Junior 
+
+
+## Habilidades
+
+- Lenguajes: JavaScript, HTML, CSS  
+- Frameworks: aun  no
+- Bases de datos: Todavía no
+- Idiomas: Español (nativo), Inglés (intermedio), Kaqchikel
+
+## Contacto
+
+- 📧 agus77chang@gmail.com
+- 📞 +502 54505418
